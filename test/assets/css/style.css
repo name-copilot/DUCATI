@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(/assets/img/844d7f90b0a3067ddb8fb8cc1b8223509db4c5d4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
